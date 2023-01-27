@@ -1,4 +1,4 @@
-let numbers = [3,6,4,2,1];
+let numbers = [12,3,5,7];
 let summ = 0;
 
 numbers.forEach(function(number) {
